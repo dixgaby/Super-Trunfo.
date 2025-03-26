@@ -1,2 +1,2 @@
 # Super-Trunfo.
-jogos de cartas
+jogos de carta
